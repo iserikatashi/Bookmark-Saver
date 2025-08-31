@@ -1,6 +1,6 @@
-# 📌 Bookmark Manager
+# 📌 Bookmark Saver
 
-A simple Bookmark Manager App built with HTML, CSS, and JavaScript.  
+A simple Bookmark Saver App built with HTML, CSS, and JavaScript.  
 Users can add, validate, and save their favorite websites with localStorage support.
 
 ---
