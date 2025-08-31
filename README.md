@@ -23,5 +23,5 @@ Users can add, validate, and save their favorite websites with localStorage supp
 
 ## 🔧 Usage
 1. Clone the repository:
-   `bash
+   ```bash
    git clone https://github.com/iserikatashi/Bookmark-Saver.git
